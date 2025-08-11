@@ -1,2 +1,4 @@
 this is file 2
 this is modified file 2
+
+okey so adding a navbar to it 
